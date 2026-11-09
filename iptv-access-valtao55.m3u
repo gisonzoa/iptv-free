@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://abda.dad/xmltv.php?username=valtao55&password=lago55" refresh="600"
+#EXTINF:-1 tvg-id="" tvg-name="IPTV Access" tvg-logo="" group-title="IPTV",IPTV Access — valtao55
+http://abda.dad/get.php?username=valtao55&password=lago55&type=m3u_plus&output=ts
